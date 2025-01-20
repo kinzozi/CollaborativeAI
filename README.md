@@ -15,7 +15,8 @@ This project implements an AI agent that leverages both Google's Gemini and Anth
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kinzozi/CollaborativeAI.git```
+   git clone https://github.com/kinzozi/CollaborativeAI.git
+   ```
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
