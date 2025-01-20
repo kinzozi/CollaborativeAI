@@ -13,12 +13,14 @@ This project implements an AI agent that leverages both Google's Gemini and Anth
 
 ## Setup
 
-1. Clone this repository
-2. Install dependencies:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/kinzozi/CollaborativeAI.git```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Create a `.env` file in the project root with your API keys:
+4. Create a `.env` file in the project root with your API keys:
    ```
    ANTHROPIC_API_KEY=your_anthropic_api_key_here
    GOOGLE_API_KEY=your_google_api_key_here
