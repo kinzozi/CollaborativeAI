@@ -1,0 +1,56 @@
+# Environment variables and API keys
+.env
+*.env
+.env.*
+
+# Security assessment reports and scan results
+security_assessment_*.md
+scan_results_*.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Log files
+*.log
+output.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Additional sensitive data
+*.pem
+*.key
+*.cert 
